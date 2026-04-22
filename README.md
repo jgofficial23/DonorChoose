@@ -162,3 +162,35 @@ Top features:
 ---
 
 ## 📦 Project Structure
+
+├── notebook.ipynb
+├── model.pkl
+├── app.py
+├── requirements.txt
+└── README.md
+
+
+
+---
+
+## 🧠 Conclusion
+
+This project demonstrates:
+- End-to-end ML pipeline
+- Handling real-world challenges like class imbalance
+- Feature engineering and model optimization
+- Business-driven insights from data
+
+---
+
+## 🔗 Future Improvements
+
+- Use TF-IDF / NLP models for better text understanding
+- Hyperparameter tuning using GridSearchCV
+- Use SHAP for explainability
+- Deploy using cloud platforms (AWS / GCP)
+
+---
+
+## 👤 Author
+Jayageetha
